@@ -34,5 +34,14 @@ Similar excersises were then made to compare similarity for Coffee House and Res
 
 However, RestaurantLessThan20 visitors were likely accept Restaurants<20 coupons even if they visited only once.
 
+## Next steps and recommendation
+There are many attributes/features that have not yet been explored in terms of what can drive the acceptance of the coupon.  A few areas that might be worth further exploring:
+1. How does the time of the day and destination affect the acceptance? Would morning drivers heading to 'Work' choose to accept a coupon - especially if it has an 'expiration' of '2h'?
+2. what factors contribute to accepting a coupon with 2h expiration time?
+3. Would drivers with a 'destination' of 'No Urgent Place' have a higher probability of accepting a coupon than otherwise.
+4. Do different types of 'weather' bring higher acceptance to certain types of coupons?
+
+Understanding these correlations and probabilities will help improve the acceptance rate of coupons.
+
 ## Data citation
 In-vehicle coupon recommendation. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5GS4P.
