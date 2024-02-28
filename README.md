@@ -1,7 +1,4 @@
 # Will the customer accept a coupon?
-## Link to notebook
-Here is the [link](prompt.ipynb) to the notebook
-
 ## Summary
 This exercise takes a dataset from UCI Machine Learning repository for  “Will a customer accept the coupon?”. The goal is to analyze the data, understand how to clean up the data (where applicable), identify patterns and present analysis results through visualizations and probability distributions.
 
@@ -45,3 +42,6 @@ Understanding these correlations and probabilities will help improve the accepta
 
 ## Data citation
 In-vehicle coupon recommendation. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5GS4P.
+
+## Link to notebook
+Here is the [link](prompt.ipynb) to the notebook
