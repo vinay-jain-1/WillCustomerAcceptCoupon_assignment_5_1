@@ -10,7 +10,9 @@ This exercise takes a dataset from UCI Machine Learning repository for  “Will 
 #### Nulls
 The data quality is generally high for the 12K+ rows in the dataset. There were a few columns that were not complete. In particular these were:
 - Car
+
 and visit columns:
+
 - Bar
 - CoffeeHouse
 - CarryAway
